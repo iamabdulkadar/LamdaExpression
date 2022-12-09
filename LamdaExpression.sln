@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncLamdaExpression", "LamdaExpression\FuncLamdaExpression.csproj", "{39C7199A-4083-49F3-8CCD-BFE53EAADD59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionLamdaExpression", "ActionLamdaExpression\ActionLamdaExpression.csproj", "{31A4671F-B86E-4483-BB34-E23A94064B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39C7199A-4083-49F3-8CCD-BFE53EAADD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C7199A-4083-49F3-8CCD-BFE53EAADD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C7199A-4083-49F3-8CCD-BFE53EAADD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C7199A-4083-49F3-8CCD-BFE53EAADD59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A4671F-B86E-4483-BB34-E23A94064B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A4671F-B86E-4483-BB34-E23A94064B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A4671F-B86E-4483-BB34-E23A94064B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A4671F-B86E-4483-BB34-E23A94064B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BB8EA82-2962-4C76-81F9-B406DED66278}
+	EndGlobalSection
+EndGlobal
